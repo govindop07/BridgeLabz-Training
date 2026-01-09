@@ -44,11 +44,11 @@ BridgeLabz-Training/
 ```
 ---
 
-**---------------------- ## 📌 Branch Overview ------------------------**
+**---------------------- Branch Overview ------------------------**
 
 
 
-### 🔹 core-java-practice
+###  core-java-practice
 
 - [Google-classroom-questions](https://github.com/govindop07/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase)
 - [Control flows](https://github.com/govindop07/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/controlFlows)
@@ -58,7 +58,7 @@ BridgeLabz-Training/
 - [LeetCode practice](https://github.com/govindop07/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
 ---
 
-###  * opps-practice
+###  opps-practice
 
 - [gcr-codebase](https://github.com/govindop07/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase)
 - [inheritance](https://github.com/govindop07/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritence)
@@ -69,7 +69,7 @@ BridgeLabz-Training/
 - [scenario-based-problems](https://github.com/govindop07/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 ------
 
-###  * dsa-practice
+###  dsa-practice
 
 - [gcr-codebase](https://github.com/govindop07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase)
 - [Algorithm runtime analysis](https://github.com/govindop07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/AlgorithmsRuntimeAnalysisBigONotation)
@@ -79,7 +79,7 @@ BridgeLabz-Training/
 - [Stack-queue-hashmap](https://github.com/govindop07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Stack_Queue_Hashmap)
 ------
 
-###  * collections-practice
+###  collections-practice
 
 - [gcr-codebase](https://github.com/govindop07/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase)
 - [Exceptions](https://github.com/govindop07/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions)
@@ -88,14 +88,14 @@ BridgeLabz-Training/
 - [Streams](https://github.com/govindop07/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams)
 ------
 
-## 🛠 Technologies Used
+## Technologies Used
 - Java
 - Git & GitHub
 - Ecplise IDE
 - Command Line Interface
 ---
 
-## 🎯 Purpose
+## Purpose
 This repository is maintained as part of **BridgeLabz Training** to:
 - Practice Java concepts
 - Maintain structured learning
