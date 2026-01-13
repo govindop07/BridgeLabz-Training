@@ -38,6 +38,27 @@ BridgeLabz-Training/
 |   |-- leet-code-codebase/
 |   |
 |   |-- scenario-based/
+|
+|-- dsa-practice/ (Branch & Folder Name)
+|   |
+|   |-- gcr-codebase/
+|   |   |  
+|   |   |-- algorithmRuntimeAnalysis/
+|   |   |-- sortingAlgorithms/
+|   |   |-- linearAndBinarySearch/
+|   |   |-- linkedList/
+|   |   |-- stack_Queue_Hashmap/
+|
+|-- collections-practice/ (Branch & Folder Name)
+|   |
+|   |-- gcr-codebase/
+|   |   |  
+|   |   |-- collection/
+|   |   |-- exceptions/
+|   |   |-- generics/
+|   |   |-- ragexAndJUnit/
+|   |   |-- streams/
+|   |
 |   
 |
 
@@ -86,6 +107,7 @@ BridgeLabz-Training/
 - [Generics](https://github.com/govindop07/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)
 - [Collection-framework](https://github.com/govindop07/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collection)
 - [Streams](https://github.com/govindop07/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams)
+- [Ragex and JUnit](https://github.com/govindop07/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/ragexAndJUnit)
 ------
 
 ## Technologies Used
