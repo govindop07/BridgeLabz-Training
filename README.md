@@ -58,6 +58,7 @@ BridgeLabz-Training/
 |   |   |-- generics/
 |   |   |-- ragexAndJUnit/
 |   |   |-- streams/
+|   |   |-- reflectionAndAnnotions/
 |   |
 |   
 |
@@ -108,6 +109,8 @@ BridgeLabz-Training/
 - [Collection-framework](https://github.com/govindop07/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collection)
 - [Streams](https://github.com/govindop07/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams)
 - [Ragex and JUnit](https://github.com/govindop07/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/ragexAndJUnit)
+- [Ragex and JUnit](https://github.com/govindop07/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/ragexAndJUnit)
+- [Reflection and Annotions](https://github.com/govindop07/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/reflectionAndAnnotations)
 ------
 
 ## Technologies Used
