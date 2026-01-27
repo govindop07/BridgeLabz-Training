@@ -65,6 +65,7 @@ BridgeLabz-Training/
 |   |-- gcr-codebase/
 |   |   |  
 |   |   |-- CSVDataHandling/
+|   |   |-- JSONData/
 |   |
 |   
 |
@@ -122,6 +123,7 @@ BridgeLabz-Training/
 
 - [gcr-codebase](https://github.com/govindop07/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase)
 - [CSV data handling](https://github.com/govindop07/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/CSVDataHandling)
+- [JSON data handling](https://github.com/govindop07/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/JSONData)
 ------
 
 ## Technologies Used
