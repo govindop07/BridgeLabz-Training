@@ -67,6 +67,12 @@ BridgeLabz-Training/
 |   |   |-- CSVDataHandling/
 |   |   |-- JSONData/
 |   |
+|-- java8-practice/ (Branch & Folder Name)
+|   |
+|   |-- gcr-codebase/
+|   |   |  
+|   |   |-- lambdaExpressions/
+|   |
 |   
 |
 
@@ -124,6 +130,12 @@ BridgeLabz-Training/
 - [gcr-codebase](https://github.com/govindop07/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase)
 - [CSV data handling](https://github.com/govindop07/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/CSVDataHandling)
 - [JSON data handling](https://github.com/govindop07/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/JSONData)
+------
+
+### java8-practice
+
+- [gcr-codebase](https://github.com/govindop07/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-codebase)
+- [Lambda Expressions](https://github.com/govindop07/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-codebase/lambdaExpressions)
 ------
 
 ## Technologies Used
