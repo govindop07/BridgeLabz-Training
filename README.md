@@ -48,6 +48,8 @@ BridgeLabz-Training/
 |   |   |-- linearAndBinarySearch/
 |   |   |-- linkedList/
 |   |   |-- stack_Queue_Hashmap/
+|   |
+|   |-- scenario-based/
 |
 |-- collections-practice/ (Branch & Folder Name)
 |   |
@@ -59,6 +61,8 @@ BridgeLabz-Training/
 |   |   |-- ragexAndJUnit/
 |   |   |-- streams/
 |   |   |-- reflectionAndAnnotions/
+|   |
+|   |-- scenario-based/
 |   |
 |-- io-programming-practice/ (Branch & Folder Name)
 |   |
@@ -72,7 +76,10 @@ BridgeLabz-Training/
 |   |-- gcr-codebase/
 |   |   |  
 |   |   |-- lambdaExpressions/
-|   |
+|   |   |-- collectors/
+|   |   |-- functionalInterfaces/
+|   |   |-- streamAPI/
+|   |   |-- smartCityTransportWorkshop/
 |   
 |
 
@@ -112,6 +119,7 @@ BridgeLabz-Training/
 - [Linear and binary search](https://github.com/govindop07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linearAndBinarySearch)
 - [Linked List](https://github.com/govindop07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/LinkedList)
 - [Stack-queue-hashmap](https://github.com/govindop07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Stack_Queue_Hashmap)
+- [Scenario-based problems](https://github.com/govindop07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
 ------
 
 ###  collections-practice
@@ -123,6 +131,7 @@ BridgeLabz-Training/
 - [Streams](https://github.com/govindop07/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams)
 - [Ragex and JUnit](https://github.com/govindop07/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/ragexAndJUnit)
 - [Reflection and Annotions](https://github.com/govindop07/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/reflectionAndAnnotations)
+- [Scenario-based problems](https://github.com/govindop07/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based)
 ------
 
 ### io-programming-practice
@@ -136,6 +145,10 @@ BridgeLabz-Training/
 
 - [gcr-codebase](https://github.com/govindop07/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-codebase)
 - [Lambda Expressions](https://github.com/govindop07/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-codebase/lambdaExpressions)
+- [Collectors](https://github.com/govindop07/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-codebase/collectors)
+- [FunctionalInterfaces](https://github.com/govindop07/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-codebase/functionalInterfaces)
+- [Stream API](https://github.com/govindop07/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-codebase/streamAPI)
+- [Smart city transport workshop](https://github.com/govindop07/BridgeLabz-Training/tree/java8-practice/java8-practice/gcr-codebase/smartCityTransportWorkshop)
 ------
 
 ## Technologies Used
